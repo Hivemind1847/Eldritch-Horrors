@@ -1,4 +1,5 @@
 package EldritchHorrorsGenesis;
+/* not my code -Hivemind1847 */
 /******************************************************************************
  *  Compilation:  javac StdDraw.java
  *  Execution:    java StdDraw
